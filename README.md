@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To view the working demo please visit
+
+<https://silverdez.github.io/react_music_player/>
+
 ## Available Scripts
 
 In the project directory, you can run:
